@@ -28,10 +28,10 @@ Before running the chatbot, create a `.env` file in the project root and add you
 ```bash
 TAVILY_API_KEY = "paste_your_tavily_key_here"
 GROQ_API_KEY = "paste_your_groq_key_here"
+```
 
 
-
-## Installation
+## 🛠️ Installation
 To install dependencies and set up the environment:
 
 1. Install **uv** (a project environment manager):
