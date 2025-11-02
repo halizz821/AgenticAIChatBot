@@ -30,6 +30,7 @@ TAVILY_API_KEY = "paste_your_tavily_key_here"
 GROQ_API_KEY = "paste_your_groq_key_here"
 ```
 
+---
 
 ## 🛠️ Installation
 To install dependencies and set up the environment:
@@ -44,7 +45,7 @@ To install dependencies and set up the environment:
    ```
    This will install all dependencies and create a new environment for the project.
    
-
+---
 ## 🚀 How to Run
 Launch the chatbot with Streamlit.
    ```bash
@@ -52,6 +53,7 @@ Launch the chatbot with Streamlit.
    ```
 The app will open automatically in your browser.   
 
+---
 ## 🙌 Acknowledgements
 Thanks to  [harishneel1](https://github.com/harishneel1) for its course on [LangGraph](https://www.youtube.com/watch?v=Y3dbzuQBnUw&t=11278s)
 that inspired this project.
