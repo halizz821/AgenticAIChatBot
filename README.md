@@ -1,5 +1,3 @@
-# AgenticAIChatBot
-
 # Agentic AI Chatbot 🤖
 
 An **Agentic AI Chatbot** built using **LangGraph** and **LangChain**, capable of reasoning, remembering past interactions, and searching the web through the **Tavily Search API**.
